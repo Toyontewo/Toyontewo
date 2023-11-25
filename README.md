@@ -1,5 +1,15 @@
 <h1>Hi, I'm Toyo! <br/><a href="https://github.com/Toyontewo">Python Programmer</a>, <a href="https://www.linkedin.com/in/toyo-ntewo-4ba238267">Cybersecurity Analyst</a>
 <!--   <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
+<h2>🦸🏾‍♂️ Certification</h2>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/FVYKPUUZ3H24"> Google Cybersecurity Certificate</a>
+  
+<h2>👨🏾‍💻 Cyber Security Projects</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>👨‍💻 Python Projects:</h2>
 
@@ -36,13 +46,7 @@
   - [Overhead Sun Notifier](https://github.com/Toyontewo/OVRsun)
   - [Quizzler App (API Game)](https://github.com/Toyontewo/GUI-PasswordManager/)
 
-<h2>👨🏾‍💻 Cyber Security Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
