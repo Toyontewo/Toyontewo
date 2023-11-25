@@ -5,21 +5,38 @@
 
 - <b>Mini Banking System</b>
   - [Mini Baning system project in Python](https://github.com/Toyontewo/MiniBankingSystem)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Loops</b>
+  - [Hang man in PYTHON](https://github.com/Toyontewo/HangMan)
+  - [Loops](https://github.com/Toyontewo/SmallLoops)
+- <b>PY Projects</b>
+  - [Black Jack](https://github.com/Toyontewo/BlackkJack)
+  - [Secret Auction (Dictionaries & Nesting)](https://github.com/Toyontewo/SecretAuction)
+  - [Mini Exam (Dictionaries & Nesting)](https://github.com/Toyontewo/MiniExam/)
+  - [Ceaser-Cypher (Encryption & Decryption)](https://github.com/Toyontewo/CeaserCyp/)
+  - [Higher Lower(Game)](https://github.com/Toyontewo/HigherLower)
+  - [Guess The number(Game)](https://github.com/Toyontewo/NumberGuess)
+  - [Coffee Machine (Using OOP)](https://github.com/Toyontewo/OopCofeeMachine)
+  - [Quiz Game (Using OOP)](https://github.com/Toyontewo/OOPQuizGame)
+- <b>PY Projects(Using Turtle Graphics)</b>
+  - [Turtle Race(Game)](https://github.com/Toyontewo/TurtleRace)
+  - [Snake Game (Game)](https://github.com/Toyontewo/SnakeGame)
+  - [Pong Game (Game)](https://github.com/Toyontewo/PongGame/)
+  - [Turtle Crossing (Game)](https://github.com/Toyontewo/TurtleCrossing)
+  - [Nigerian States (Game)](https://github.com/Toyontewo/NigeriaGame)
+- <b>Data Analysis and List Comprehension (Using PYTHON)</b>
+  - [Central Park (Using Pandas)](https://github.com/Toyontewo/CentalPark)
+  - [US States (Game)](https://github.com/Toyontewo/UStatesGame)
+  - [NATO Alphabets (List Comprehension)](https://github.com/Toyontewo/NATOalphabet)
+- <b>GUI (Using Tkinter)</b>
+  - [Miles to KM (GUI)](https://github.com/Toyontewo/GUImTOkm)
+  - [Password Manager (GUI)](https://github.com/Toyontewo/GUI-PasswordManager/)
+  - ["Pomodoro" StopWatch (GUI)](https://github.com/Toyontewo/pomodoro)
+  - [GUI Currency converter (NG -> USD)](https://github.com/Toyontewo/CurrencyConv)
+- <b>API (Using PYTHON</b>
+  - [Overhead Sun Notifier](https://github.com/Toyontewo/OVRsun)
+  - [Quizzler App (API Game)](https://github.com/Toyontewo/GUI-PasswordManager/)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>👨🏾‍💻 Cyber Security Projects</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
