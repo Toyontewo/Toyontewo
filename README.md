@@ -14,38 +14,8 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-- <b>Mini Banking System</b>
-  - [Mini Baning system project in Python](https://github.com/Toyontewo/MiniBankingSystem)
-- <b>Loops</b>
-  - [Hang man in PYTHON](https://github.com/Toyontewo/HangMan)
-  - [Loops](https://github.com/Toyontewo/SmallLoops)
-- <b>PY Projects</b>
-  - [Black Jack](https://github.com/Toyontewo/BlackkJack)
-  - [Secret Auction (Dictionaries & Nesting)](https://github.com/Toyontewo/SecretAuction)
-  - [Mini Exam (Dictionaries & Nesting)](https://github.com/Toyontewo/MiniExam/)
-  - [Ceaser-Cypher (Encryption & Decryption)](https://github.com/Toyontewo/CeaserCyp/)
-  - [Higher Lower(Game)](https://github.com/Toyontewo/HigherLower)
-  - [Guess The number(Game)](https://github.com/Toyontewo/NumberGuess)
-  - [Coffee Machine (Using OOP)](https://github.com/Toyontewo/OopCofeeMachine)
-  - [Quiz Game (Using OOP)](https://github.com/Toyontewo/OOPQuizGame)
-- <b>PY Projects(Using Turtle Graphics)</b>
-  - [Turtle Race(Game)](https://github.com/Toyontewo/TurtleRace)
-  - [Snake Game (Game)](https://github.com/Toyontewo/SnakeGame)
-  - [Pong Game (Game)](https://github.com/Toyontewo/PongGame/)
-  - [Turtle Crossing (Game)](https://github.com/Toyontewo/TurtleCrossing)
-  - [Nigerian States (Game)](https://github.com/Toyontewo/NigeriaGame)
-- <b>Data Analysis and List Comprehension (Using PYTHON)</b>
-  - [Central Park (Using Pandas)](https://github.com/Toyontewo/CentalPark)
-  - [US States (Game)](https://github.com/Toyontewo/UStatesGame)
-  - [NATO Alphabets (List Comprehension)](https://github.com/Toyontewo/NATOalphabet)
-- <b>GUI (Using Tkinter)</b>
-  - [Miles to KM (GUI)](https://github.com/Toyontewo/GUImTOkm)
-  - [Password Manager (GUI)](https://github.com/Toyontewo/GUI-PasswordManager/)
-  - ["Pomodoro" StopWatch (GUI)](https://github.com/Toyontewo/pomodoro)
-  - [GUI Currency converter (NG -> USD)](https://github.com/Toyontewo/CurrencyConv)
-- <b>API (Using PYTHON</b>
-  - [Overhead Sun Notifier](https://github.com/Toyontewo/OVRsun)
-  - [Quizzler App (API Game)](https://github.com/Toyontewo/GUI-PasswordManager/)
+- [All Python Projects](https://github.com/Toyontewo/PythonProjects/)
+  
 
 
 
