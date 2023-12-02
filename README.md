@@ -5,7 +5,6 @@
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/FVYKPUUZ3H24"> Google Cybersecurity Certificate</a>
   
 <h2>👨🏾‍💻 Cyber Security Projects:</h2>
-<hr>
 - <b><a href="https://github.com/Toyontewo/burpsuite_scan">Web Application Vulnerability Scan (Using Burpsuite)</a></b>
 
 <!-- 
