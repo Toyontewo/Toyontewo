@@ -5,8 +5,9 @@
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/FVYKPUUZ3H24"> Google Cybersecurity Certificate</a>
   
 <h2>👨🏾‍💻 Cyber Security Projects:</h2>
+<hr>
 - <b>Web Application Vulnerability Scan (Using Burpsuite)</b>
-  - [Mini Baning system project in Python](https://github.com/Toyontewo/MiniBankingSystem)
+  
 <!-- 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
