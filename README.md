@@ -1,5 +1,5 @@
 <h1>Hi, I'm Toyo</h1> 
-<br/><a href="https://www.linkedin.com/in/toyo-ntewo-4ba238267">Cybersecurity Analyst</a> and <a href="https://github.com/Toyontewo/PythonProjects/">A Python Programmer</a>
+<br/><a href="https://www.linkedin.com/in/toyo-ntewo-4ba238267">Cybersecurity Analyst</a> and <a href="https://github.com/Toyontewo/PythonProjects/">Python Programmer</a>
 <!--   <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 <h2>🦸🏾‍♂️ Certification</h2>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/FVYKPUUZ3H24"> Google Cybersecurity Certificate</a>
@@ -15,7 +15,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<h2>👨‍💻 Python Projects:</h2>
+<h2>🛠 Python Projects:</h2>
 
 - [All Python Projects](https://github.com/Toyontewo/PythonProjects/)
   
