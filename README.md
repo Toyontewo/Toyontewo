@@ -1,6 +1,7 @@
 <h1>Hi, I'm Toyo</h1> 
 <br/><a href="https://www.linkedin.com/in/toyo-ntewo-4ba238267">Cybersecurity Analyst</a> and <a href="https://github.com/Toyontewo/PythonProjects/">Python Programmer</a>
 <!--   <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
+<br>
 - [📃 Resume:](https://github.com/Toyontewo/PythonProjects/)
 <h2>🦸🏾‍♂️ Certificates</h2>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/FVYKPUUZ3H24"> Google Cybersecurity Certificate</a>
