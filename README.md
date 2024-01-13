@@ -2,7 +2,7 @@
 <br/><a href="https://www.linkedin.com/in/toyo-ntewo-4ba238267">Cybersecurity Analyst</a> and <a href="https://github.com/Toyontewo/PythonProjects/">Python Programmer</a>
 <!--   <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
-- 📄*Resume*:  [(click here --> 📄)](https://github.com/Toyontewo/Files/blob/60822fd65e27e5658503326ec7e2ff7bcf6d400a/Resume.pdf)
+- 📄*Resume*:  [(click here --> 📄)](https://github.com/Toyontewo/Toyontewo/blob/48e058544a515f293e4a2b3001ca4c7a55de8b5b/Resume.pdf)
 
 
 <h2>🦸🏾‍♂️ Certificates</h2>
