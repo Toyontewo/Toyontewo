@@ -18,9 +18,9 @@
   <a href="https://twitter.com/toyosocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
 
 - 📃 [My Resume](https://github.com/Toyontewo/new_file/blob/aab6c9abd81d341e263f9b4af91ac69e6d19b51e/Resume.pdf)
-- ❓  InfoSec Enthusiast working on Blue side. 
-- 🔭 I’m currently working on a Malware analysis Lab
-- 🌱 I’m currently learning more on Suricata
+- ❓  InfoSec Enthusiast working on the Blue side. 
+- 🔭 I’m currently working on a Honeypot system
+- 🌱 I’m currently learning more about Suricata
 - 💬 Ask me anything about Cybersecurity 
 
 
@@ -45,6 +45,35 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
+
+<details open> 
+  <summary><h2>🛡 Cybersecurity Projects</h2></summary>
+  <p><a href="https://github.com/Toyontewo/burpsuite_scan">Web application scanning Using Burpsuite</a></p>
+</details>
+
+<details open> 
+  <summary><h2>🖥 Python Projects</h2></summary>
+  <p><a href="https://github.com/Toyontewo/PythonProjects">All Python Projects</a></p>
+</details>
+
+
+
+<details open> 
+  <summary><h2>📕 My Top Projects</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    <a href="https://github.com/Toyontewo/burpsuite_scan"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/Screenshot%202024-01-14%20at%208.12.32%20PM.png" alt="flask"></a>
+    <a href="https://github.com/badges/shields"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/minibank.png" alt="shields"></a>
+    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/blackjack.png" alt="simple-icons"></a>
+    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/turtlerace.png" alt="onefetch"></a>
+    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/snakegame.png" alt="dateparser"></a>
+    <a href="https://github.com/python-babel/babel"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/nigerianstate.png" alt="babel"></a>
+    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/guimanger.png" alt="nextcord"></a>
+    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/currency_conv.png" alt="autoflake"></a>
+  </p>
+</details>
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -109,3 +138,8 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+## 📫 How to reach me:
+- 📞 [@toyosocial on Twitter](https://twitter.com/toyosocial)
+- 📞 [toyo.tp on Instagram](https://www.instagram.com/toyo.tp/)
+- 📨 [Email Me](toyob4lyf@gamil.com)
