@@ -5,5 +5,5 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=4000&random=false&width=435&lines=Cybersecurity+Enthusiast+and+Python+programmer" alt="Typing SVG" /></a>" /></a>
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=4000&random=false&width=435&lines=Cybersecurity+Enthusiast+and+Python+programmer" alt="Typing SVG" /></a>
 </p>
