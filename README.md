@@ -64,13 +64,13 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/Toyontewo/burpsuite_scan"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/Screenshot%202024-01-14%20at%208.12.32%20PM.png" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/minibank.png" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/blackjack.png" alt="simple-icons"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/turtlerace.png" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/snakegame.png" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/nigerianstate.png" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/guimanger.png" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/currency_conv.png" alt="autoflake"></a>
+    <a href="https://github.com/Toyontewo/MiniBankingSystem"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/minibank.png" alt="shields"></a>
+    <a href="https://github.com/Toyontewo/BlackkJack"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/blackjack.png" alt="simple-icons"></a>
+    <a href="https://github.com/Toyontewo/TurtleRace"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/turtlerace.png" alt="onefetch"></a>
+    <a href="https://github.com/Toyontewo/SnakeGame"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/snakegame.png" alt="dateparser"></a>
+    <a href="https://github.com/Toyontewo/NigeriaGame"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/nigerianstate.png" alt="babel"></a>
+    <a href="https://github.com/Toyontewo/GUI-PasswordManager/"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/guimanger.png" alt="nextcord"></a>
+    <a href="https://github.com/Toyontewo/CurrencyConv"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/currency_conv.png" alt="autoflake"></a>
   </p>
 </details>
 
