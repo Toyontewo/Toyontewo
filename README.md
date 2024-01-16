@@ -141,7 +141,7 @@
 
 <h2>📫 How to reach me:</h2>
 <ul>
-  <li>📞 <a href="https://twitter.com/toyosocial" target="_blank">@toyosocial on Twitter</a></li>
+  <li>📞 <a href="https://twitter.com/toyosocial">@toyosocial on Twitter</a></li>
   <li>📞 <a href="https://www.instagram.com/toyo.tp/" target="_blank">toyo.tp on Instagram</a></li>
-  <li>📨 <a href="mailto:toyob4lyf@gamil.com">Email Me</a></li>
+  <li>📨 <a href="toyob4lyf@gamil.com">Email Me</a></li>
 </ul>
