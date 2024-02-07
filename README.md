@@ -143,5 +143,5 @@
 <ul>
   <li>📞 <a href="https://twitter.com/toyosocial">@toyosocial on Twitter</a></li>
   <li>📞 <a href="https://www.instagram.com/toyo.tp/" target="_blank">toyo.tp on Instagram</a></li>
-  <li>📨 <a href="">Email Me @ </a></li>
+  <li>📨 <a href="toyob4lyf@gmail.com">Email Me @ </a></li>
 </ul>
