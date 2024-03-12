@@ -35,6 +35,7 @@
 <p float="left">
   <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/google-cybersecurity-certificate.png" width="100" height="100">
   <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/port-scan-avatar-cdb607b2-2015-4d74-8136-b1aec1b6d626.png" width="100" height="100">
+  <img src="https://github.com/Toyontewo/all_images/blob/ff737ac4b7f5ab200d70e4d31c980303755aa2ef/networking-basics.png" width="100" height="100">
 </p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--
