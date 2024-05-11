@@ -26,10 +26,10 @@
 
 
 ## 💪 My Keys (A few in my arsenal)
-- Defensive security. Incident Response. Threat Hunt. Forensic investigation
+<!-- - Defensive security. Incident Response. Threat Hunt. Forensic investigation -->
 - Security Assessment Tools:	Burpsuite, Wireshark
-- Operating System:	Windows, Kali Linux, Linux- Ubuntu, Parrot Linux 
-- Scripting Language:	Python, Php
+- Operating System:	Windows, Kali Linux, Parrot Linux 
+- Scripting Language:	Python
 
 ## 🏆 Badges:
 <p float="left">
