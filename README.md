@@ -31,24 +31,8 @@
 - Operating System:	Windows, Kali Linux, Parrot Linux 
 - Scripting Language:	Python
 
-## 🏆 Badges:
-<p float="left">
-  <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/google-cybersecurity-certificate.png" width="100" height="100">
-  <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/port-scan-avatar-cdb607b2-2015-4d74-8136-b1aec1b6d626.png" width="100" height="100">
-  <img src="https://github.com/Toyontewo/all_images/blob/ff737ac4b7f5ab200d70e4d31c980303755aa2ef/networking-basics.png" width="100" height="100">
-</p>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!--
-  <a href="https://discord.com/users/toyotp" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  -->
-
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-
 <details open> 
-  <summary><h2>🛡 Cybersecurity Projects</h2></summary>
+  <summary><h2>🛡 My Projects</h2></summary>
   <p><a href="https://github.com/Toyontewo/burpsuite_scan">Web application scanning Using Burpsuite</a></p>
   <p><a href="https://github.com/Toyontewo/malware-analysis_lab">Malware Analysis Lab</a></p>
   <p><a href="https://github.com/Toyontewo/active-directory">Active Directory Project</a></p>
@@ -77,6 +61,26 @@
     <a href="https://github.com/Toyontewo/CurrencyConv"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/currency_conv.png" alt="autoflake"></a>
   </p>
 </details>
+
+
+
+## 🏆 Badges:
+<p float="left">
+  <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/google-cybersecurity-certificate.png" width="100" height="100">
+  <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/port-scan-avatar-cdb607b2-2015-4d74-8136-b1aec1b6d626.png" width="100" height="100">
+  <img src="https://github.com/Toyontewo/all_images/blob/ff737ac4b7f5ab200d70e4d31c980303755aa2ef/networking-basics.png" width="100" height="100">
+</p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!--
+  <a href="https://discord.com/users/toyotp" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  -->
+
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+
 
 
 <details> 
