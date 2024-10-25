@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/toyosocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
 
-- 📃 [My Resume](https://github.com/Toyontewo/new_file/blob/aab6c9abd81d341e263f9b4af91ac69e6d19b51e/Resume.pdf)
+- 📃 [My Resume](https://drive.google.com/file/d/1Dwl_X9C9R5IXfBmg1mybP73NwKSkDXFU/view?usp=sharing)
 - ❓  InfoSec Enthusiast working on the Blue side. 
 - 🔭 I’m currently working on a Honeypot system
 - 🌱 I’m currently learning more about Suricata
