@@ -35,6 +35,7 @@
   <summary><h2>🛡 My Projects</h2></summary>
   <p><a href="https://github.com/Toyontewo/burpsuite_scan">Web application scanning Using Burpsuite</a></p>
   <p><a href="https://github.com/Toyontewo/ActiveDirectory">Active Directory Project</a></p>
+  <p><a href="https://github.com/Toyontewo/honeypot_project">Honeypot Project (Final year Thesis)</a></p>
  
 </details>
 
