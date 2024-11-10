@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F2416C&center=true&vCenter=true&multiline=true&random=false&height=80&lines=A+CyberSecurity+Enthusiast+;and+Python+Programmer" alt="Typing SVG" /></a>
 </p>
-
+https://drive.google.com/file/d/1k6v_wZF73bldPxrKRfc0yndzIEPLmUbU/view?usp=sharing
 <!-- Social icons section -->
 <p align="center">
   <a href="https://youtube.com/@toyontewo8472?si=1yvz2dPCirDxHZ2D"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
