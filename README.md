@@ -8,7 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F2416C&center=true&vCenter=true&multiline=true&random=false&height=80&lines=A+CyberSecurity+Enthusiast+;and+Python+Programmer" alt="Typing SVG" /></a>
 </p>
-https://docs.google.com/presentation/d/1S6qjqs3BqJzFKTw99-_dUctRHnoUuW6A/edit?usp=sharing&ouid=113602478217884007945&rtpof=true&sd=true
 
 <!-- Social icons section -->
 <p align="center">
