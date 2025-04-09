@@ -20,9 +20,10 @@
 - 📃 [My Resume](https://drive.google.com/file/d/1LYmBqfs_hbejnXppnQvZaTmic18EBdwT/view?usp=sharing)
 - ❓  InfoSec Enthusiast working on the Blue side. 
 - 🔭 I’m currently working on a Honeypot system
+ <!--
 - 🌱 I’m currently learning more about Suricata
 - 💬 Ask me anything about Cybersecurity 
-
+-->
 
 
 ## 💪 My Keys (A few in my Arsenal)
