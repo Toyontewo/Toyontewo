@@ -79,12 +79,12 @@
 
 
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+<!--<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary> -->
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges 
+<!
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
+<!--
   <p>
       <a href="https://github.com/toyontewo"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/toyontewo"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -92,6 +92,7 @@
       <a href="https://github.com/toyontewo"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/toyontewo"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
+-->
 <!--
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
@@ -118,18 +119,18 @@
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
   -->
-
+<!--
   <h3>🗄️ Databases and Cloud Hosting</h3>
-
+<!--
   <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
-
+<!--
   <h3>💻 Software and Tools</h3>
-
+<!--
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -142,10 +143,12 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
+-->
 <h2>📫 How to reach me:</h2>
 <ul>
+ <!--
   <li>📞 <a href="https://twitter.com/toyosocial">@toyosocial on Twitter</a></li>
   <li>📞 <a href="https://www.instagram.com/toyo.tp/" target="_blank">toyo.tp on Instagram</a></li>
-  <li>📨 <p>Email Me @ toyob4lyf@gmail.com</p></li>
+ -->
+  <li>📨 <a href="mailto:toyontewo@icloud.com">Email</a></li>
 </ul>
