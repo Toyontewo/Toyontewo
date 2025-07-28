@@ -22,7 +22,7 @@
 -->
 
 
-## 💪 My Keys (A few in my Arsenal)
+## My Keys
 <!-- - Defensive security. Incident Response. Threat Hunt. Forensic investigation -->
 - Security Assessment Tools:	Burpsuite, Wireshark
 - Operating System:	Windows, Kali Linux, Parrot Linux 
