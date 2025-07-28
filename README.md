@@ -10,8 +10,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/toyontewo123/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
+ 
+<!--
 - 📃 [My Resume](https://drive.google.com/file/d/1LYmBqfs_hbejnXppnQvZaTmic18EBdwT/view?usp=sharing)
+
 - ❓  InfoSec Enthusiast working on the Blue side. 
 - 🔭 I’m currently working on a Honeypot system
  <!--
