@@ -146,7 +146,7 @@
   </p>
 </details>
 -->
-<h2>📫 How to reach me:</h2>
+<h2>Reach me at:</h2>
 <ul>
  <!--
   <li>📞 <a href="https://twitter.com/toyosocial">@toyosocial on Twitter</a></li>
