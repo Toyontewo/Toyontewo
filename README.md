@@ -26,6 +26,7 @@
 - Operating System:	Windows, Kali Linux, Parrot Linux 
 - Scripting Language:	Python
 
+<!--
 <details open> 
   <summary><h2>🛡 My Projects</h2></summary>
   <p><a href="https://github.com/Toyontewo/burpsuite_scan">Web application scanning Using Burpsuite</a></p>
@@ -44,7 +45,7 @@
 <details open> 
   <summary><h2>📕 My Top Projects</h2></summary>
 
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats)
   <p align="left">
     <a href="https://github.com/Toyontewo/burpsuite_scan"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/Screenshot%202024-01-14%20at%208.12.32%20PM.png" alt="flask"></a>
     <a href="https://github.com/Toyontewo/MiniBankingSystem"><img width="278" src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/minibank.png" alt="shields"></a>
@@ -57,7 +58,7 @@
   </p>
 </details>
 
-
+-->
 
 ## 🏆 Badges:
 <p float="left">
