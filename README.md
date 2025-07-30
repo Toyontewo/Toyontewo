@@ -10,6 +10,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/toyontewo123/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@toyontewo"><img width="32px" alt="Medium" title="Medium" src="https://imgur.com/a/YpUjrvx"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
  
 <!--
 - 📃 [My Resume](https://drive.google.com/file/d/1LYmBqfs_hbejnXppnQvZaTmic18EBdwT/view?usp=sharing)
