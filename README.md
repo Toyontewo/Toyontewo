@@ -26,7 +26,7 @@
 <!-- - Defensive security. Incident Response. Threat Hunt. Forensic investigation -->
 - Security Assessment Tools:	Burpsuite, Wireshark
 - Operating System:	Windows, Kali Linux, Parrot Linux 
-- Scripting Language:	Python
+- Scripting Language:	Python, Bash
 
 <!--
 <details open> 
