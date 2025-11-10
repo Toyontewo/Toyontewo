@@ -24,9 +24,9 @@
 
 ## My Keys
 <!-- - Defensive security. Incident Response. Threat Hunt. Forensic investigation -->
-- Security Assessment Tools:	Burpsuite, Wireshark
-- Operating System:	Windows, Kali Linux, Parrot Linux 
-- Scripting Language:	Python, Bash
+- Programming: Python, Bash, HTML/CSS
+- Tools: Linux (Debian & Ubuntu), Git, Docker, VS Code
+- Cloud & DevOps: AWS, Shell scripting, CI/CD basics
 
 <!--
 <details open> 
