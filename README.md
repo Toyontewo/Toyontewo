@@ -1,3 +1,4 @@
+### Hi There👋
 <p align="center">
  <a href="https://github.com/Toyontewo">
     <img src="https://github.com/Toyontewo/all_images/blob/ee15ef1c0d2e0392590b754b96c49c801dd09c4a/images/(2)199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png"  style="width:300px;height:30px;" alt="Toyo Ntewo" /></a>
@@ -20,6 +21,10 @@
 - 🌱 I’m currently learning more about Suricata
 - 💬 Ask me anything about Cybersecurity 
 -->
+
+<h4>Top Languages 🗣️</h4>
+
+
 ![Python](https://img.shields.io/badge/Python-1A2C34?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
