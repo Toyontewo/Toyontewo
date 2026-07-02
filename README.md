@@ -20,13 +20,72 @@
 - 🌱 I’m currently learning more about Suricata
 - 💬 Ask me anything about Cybersecurity 
 -->
+![Python](https://img.shields.io/badge/Python-1A2C34?style=for-the-badge&logo=python&logoColor=FFD43B)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## My Keys
-<!-- - Defensive security. Incident Response. Threat Hunt. Forensic investigation -->
-- Programming: Python, Bash, HTML/CSS
-- Tools: Linux (Debian & Ubuntu), Git, Docker, VS Code
-- Cloud & DevOps: AWS, Shell scripting, CI/CD basics
+<h4>Technologies 📡</h4>
+
+
+![HTML5](https://img.shields.io/badge/HTML5-1A2C34?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1A2C34?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A2C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-1A2C34?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1A2C34?style=for-the-badge&logo=github&logoColor=F7BA3E)
+![Vercel](https://img.shields.io/badge/Vercel-1A2C34?style=for-the-badge&logo=vercel&logoColor=F7BA3E)
+![Netlify](https://img.shields.io/badge/Netlify-1A2C34?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Python](https://img.shields.io/badge/Python-1A2C34?style=for-the-badge&logo=python&logoColor=3776AB)
+![Airtable](https://img.shields.io/badge/Airtable-1A2C34?style=for-the-badge&logo=airtable&logoColor=18BFFF)
+![Bubble](https://img.shields.io/badge/Bubble-1A2C34?style=for-the-badge&logo=bubble&logoColor=F7BA3E)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1A2C34?style=for-the-badge&logo=davinciresolve&logoColor=233A51)
+![Excel](https://img.shields.io/badge/Excel-1A2C34?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Stripe](https://img.shields.io/badge/Stripe-1A2C34?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Ollama](https://img.shields.io/badge/Ollama-1A2C34?style=for-the-badge&logo=ollama&logoColor=F7BA3E)
+![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=zsh&logoColor=F15A24)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+<h4>Dev Devices and Softwares 🤓</h4>
+
+- ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![apple silicon](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white) Mac Mini M4
+- ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+- ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+
+<h4>Gaming 🎮</h4>
+
+- ![playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+
+<h4>Social 🙇🏾</h4>
+
+- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/toyo_tp)
+- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/toyontewo)
+- [![linkedin](https://img.shields.io/badge/Linked_in-30363D?style=for-the-badge&logo=linked-ins&logoColor=#white)](https://www.linkedin.com/in/toyontewo)
+
+---
+
+<h4 align="left">Git Stats</h4>
+
+
+
+---
+
+<h4 align="center">Visitor Count 👀 </h4>
+<p align="center"><img src="https://profile-counter.deno.dev/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/count.svg" alt="toyontewo :: Visitor's Count" /></p>
 
 <!--
 <details open> 
