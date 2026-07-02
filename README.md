@@ -54,14 +54,11 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
 
 <h4>Dev Devices and Softwares 🤓</h4>
 
@@ -71,9 +68,6 @@
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
-<h4>Gaming 🎮</h4>
-
-- ![playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 <h4>Social 🙇🏾</h4>
 
@@ -81,16 +75,6 @@
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/toyontewo)
 - [![linkedin](https://img.shields.io/badge/Linked_in-30363D?style=for-the-badge&logo=linked-ins&logoColor=#white)](https://www.linkedin.com/in/toyontewo)
 
----
-
-<h4 align="left">Git Stats</h4>
-
-
-
----
-
-<h4 align="center">Visitor Count 👀 </h4>
-<p align="center"><img src="https://profile-counter.deno.dev/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/count.svg" alt="toyontewo :: Visitor's Count" /></p>
 
 <!--
 <details open> 
@@ -125,9 +109,6 @@
 </details>
 
 -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
 ## 🏆 Badges:
 <p float="left">
   <img src="https://github.com/Toyontewo/all_images/blob/a0855bc9ef3a43434921d59b969062da87a3d844/images/google-cybersecurity-certificate.png" width="100" height="100">
