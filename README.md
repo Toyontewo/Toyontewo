@@ -29,35 +29,11 @@
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 <h4>Technologies 📡</h4>
 
 
-![HTML5](https://img.shields.io/badge/HTML5-1A2C34?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1A2C34?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A2C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-1A2C34?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1A2C34?style=for-the-badge&logo=github&logoColor=F7BA3E)
-![Vercel](https://img.shields.io/badge/Vercel-1A2C34?style=for-the-badge&logo=vercel&logoColor=F7BA3E)
-![Netlify](https://img.shields.io/badge/Netlify-1A2C34?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Python](https://img.shields.io/badge/Python-1A2C34?style=for-the-badge&logo=python&logoColor=3776AB)
-![Airtable](https://img.shields.io/badge/Airtable-1A2C34?style=for-the-badge&logo=airtable&logoColor=18BFFF)
-![Bubble](https://img.shields.io/badge/Bubble-1A2C34?style=for-the-badge&logo=bubble&logoColor=F7BA3E)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1A2C34?style=for-the-badge&logo=davinciresolve&logoColor=233A51)
-![Excel](https://img.shields.io/badge/Excel-1A2C34?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Stripe](https://img.shields.io/badge/Stripe-1A2C34?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Ollama](https://img.shields.io/badge/Ollama-1A2C34?style=for-the-badge&logo=ollama&logoColor=F7BA3E)
-![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=zsh&logoColor=F15A24)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
 <h4>Dev Devices and Softwares 🤓</h4>
