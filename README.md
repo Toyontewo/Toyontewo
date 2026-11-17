@@ -8,7 +8,7 @@ I design practical systems that help businesses move from scattered, manual work
 
 <a href="https://flowopticsai.com"><img alt="Flow Optics AI" src="https://img.shields.io/badge/Flow%20Optics%20AI-Visit%20site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/toyontewo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:toyo@flowopticsai.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:toyontewo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
